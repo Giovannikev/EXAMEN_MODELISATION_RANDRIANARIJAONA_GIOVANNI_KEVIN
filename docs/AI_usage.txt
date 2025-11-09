@@ -1,0 +1,20 @@
+================================================================================
+        DOCUMENTATION D'UTILISATION DE L'IA GÉNÉRATIVE
+================================================================================
+
+Projet : Application de Modélisation Mathématique
+Auteur : RANDRIANARIJAONA Giovanni Kevin
+IA utilisée : Claude (Anthropic) via https://claude.ai/new
+
+================================================================================
+UTILISATION
+================================================================================
+
+Pourcentage estimé de code généré par IA : ~20%
+
+L'IA a été utilisée principalement pour :
+- Les commentaires dans le code
+- La génération de ce document d'utilisation de l'IA
+- La structure initiale de l'architecture du projet
+- Des suggestions de patterns pour l'interface Tkinter
+- Guide d'installation
